@@ -2311,7 +2311,7 @@ $jscomp.polyfill("Object.setPrototypeOf", function(d) {
             messageTooLong: "\u041f\u043e\u043c\u0438\u043b\u043a\u0430. \u0412\u0430\u0448\u0435 \u043f\u043e\u0432\u0456\u0434\u043e\u043c\u043b\u0435\u043d\u043d\u044f \u0434\u043e\u0432\u0448\u0435 \u043d\u0430 numOfChars \u0441\u0438\u043c\u0432."
         }],
         ["en", {
-            askSomething: "Say 'Hi' To Reurn to main menu",
+            askSomething: "Say 'Hi' To Return to MainMenu",
             chatTitle: "Chat",
             errorMessage: "Something went wrong, please try again.",
             messageTooLong: "Oops! Your message is numOfChars characters too long."
