@@ -6,7 +6,7 @@
       'https://static.dialogflow.com/common/messenger/webcomponentsjs/2.1.3/custom-elements-es5-adapter.js';
   var WEBCOMPONENTS_LOADER_URL =
       'https://static.dialogflow.com/common/messenger/webcomponentsjs/2.1.3/webcomponents-loader.js';
-  var MESSENGER_URL = 'https://cdn.jsdelivr.net/gh/Thrinesh11/bot@Thrinesh11-messenger/messenger.js';
+  var MESSENGER_URL = 'https://cdn.jsdelivr.net/gh/Thrinesh11/bot@Thrinesh11-1.2/messenger.js';
       //'https://www.gstatic.com/dialogflow-console/fast/messenger/messenger-internal.min.js?v=4';
 
   var loadDfMessenger = function () {
